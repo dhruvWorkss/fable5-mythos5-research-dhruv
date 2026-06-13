@@ -644,4 +644,4 @@ This research was conducted by consulting Anthropic's official documentation, th
 
 Where information was unavailable from primary sources (e.g., specific system card evaluation methodology details), this is noted rather than speculated upon. Gaps are explicitly identified rather than filled with speculation — see the system card analysis for a breakdown of what remains unverified.
 
- echo ## Prototype Demo Video  echo [Watch the demo on Loom](https://www.loom.com/share/e31552c29c2f45bfa77c6e290fde37e6)
+## Prototype Demo Video  echo [Watch the demo on Loom](https://www.loom.com/share/e31552c29c2f45bfa77c6e290fde37e6)
