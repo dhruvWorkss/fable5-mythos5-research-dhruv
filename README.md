@@ -643,3 +643,5 @@ All claims in this document are sourced from primary Anthropic publications only
 This research was conducted by consulting Anthropic's official documentation, the model card, and the Project Glasswing announcement. Where customer testimonials are cited (Stripe, Cursor, GitHub), these come from Anthropic's own announcement page. No secondary blog posts or news articles were used as primary sources. Competitive comparisons are based on publicly available benchmark data and capability claims from each provider's official channels.
 
 Where information was unavailable from primary sources (e.g., specific system card evaluation methodology details), this is noted rather than speculated upon. Gaps are explicitly identified rather than filled with speculation — see the system card analysis for a breakdown of what remains unverified.
+
+ echo ## Prototype Demo Video  echo [Watch the demo on Loom](https://www.loom.com/share/e31552c29c2f45bfa77c6e290fde37e6)
